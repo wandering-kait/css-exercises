@@ -1,4 +1,14 @@
-.odd-class {
+.odd-class,
+.three {
     background-color: red;
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.three {
+   font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
 }
